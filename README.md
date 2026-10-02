@@ -1,7 +1,6 @@
 # 自己紹介 👋
 私の名前は**宮城海**と言います。プログラマーになるために、専門学校で日々勉強に励んでいます。
 
-
 ## 💻 技術スタック(触れたことがあるもの)
 言語:Python/Kotlin/HTML/CSS
 
@@ -9,9 +8,10 @@
 
 データベース:MariaDB/MySQL
 
-
 ## 🎮 趣味
-・ゲーム
+ゲーム
+
+## 
 
 <!--
 **itc-s25010/itc-s25010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
