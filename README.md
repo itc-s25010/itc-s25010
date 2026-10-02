@@ -1,6 +1,8 @@
 ## 自己紹介 👋
 私の名前は宮城海と言います。プログラマーになるために、専門学校で日々勉強に励んでいます。
 
+## :conputer: 趣味
+
 <!--
 **itc-s25010/itc-s25010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
