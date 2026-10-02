@@ -4,8 +4,10 @@
 ## 💻 技術スタック(触れたことがあるもの)
 ・言語
  - Python/Kotlin/HTML/CSS
+
 ・フレームワーク
  - DOCKER
+
 ・データベース
  - MariaDB/MySQL
 
