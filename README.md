@@ -2,7 +2,8 @@
 私の名前は**宮城海**と言います。プログラマーになるために、ITカレッジ沖縄で日々勉強に励んでいます。
 
 ## 💻 技術スタック(触れたことがあるもの)
-言語:Python/Kotlin/HTML/CSS
+言語:![Python Version](https://shields.io)
+/Kotlin/HTML/CSS
 
 フレームワーク:DOCKER
 
