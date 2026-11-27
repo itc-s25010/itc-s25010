@@ -19,7 +19,9 @@
  * コミュニケーション検定 初級
 
 ## 作品一覧
-* [ゲーム機のスペック比較サイト](https://gh-comparison-web-hnc1.vercel.app/)
+ゲーム機のスペックを比較するWebサイト
+* [Webページ](https://gh-comparison-web-hnc1.vercel.app/)
+* [GitHub](https://github.com/itc-s25010/gh-comparison-web)
 
 ## 🌐 今後の目標
 ・プログラミング技術をさらに磨いていきたい(特にフレームワークやデータベースはほとんど知らないため、知識を深めていきたい)
