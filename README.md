@@ -18,13 +18,13 @@
  * CompTIA IT Fundamentals（ITF+)
  * コミュニケーション検定 初級
 
-## 作品一覧
+## 📜 作品一覧
 ゲーム機のスペックを比較するWebサイト
 * [Webページ](https://gh-comparison-web-hnc1.vercel.app/)
-* [GitHub](https://github.com/itc-s25010/gh-comparison-web)
+* [Gitリポジトリ](https://github.com/itc-s25010/gh-comparison-web)
 
 簡易Web掲示板
-* [GitHub](https://github.com/itc-s25010/webstorm_kadai)
+* [Gitリポジトリ](https://github.com/itc-s25010/webstorm_kadai)
 
 ## 🌐 今後の目標
 ・プログラミング技術をさらに磨いていきたい(特にフレームワークやデータベースはほとんど知らないため、知識を深めていきたい)
